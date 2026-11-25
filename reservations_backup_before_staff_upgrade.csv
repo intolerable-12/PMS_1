@@ -1,0 +1,4 @@
+ReservationID,GuestName,Address,Email,Nationality,ContactNumber,CheckIn,CheckOut,Nights,Occupants,SpecialRequests,RoomNumber,RoomType,RoomRate,TotalAmount,ReservationStatus
+"RES-20261124233923","Jerome","23dsfasfdsf","email@gmail.com","232sadfd","23232","2026-12-12","2026-12-15","3","4","testingtesting","302","Suite","4000","12000","CONFIRMED"
+"RES-20261124235222","Jerome","23dsfasfdsf","email@gmail.com","232sadfd","23232","2026-12-12","2026-12-15","3","4","testingtesting","402","King","5000","15000","CONFIRMED"
+"RES-20261124235248","Jerome","23dsfasfdsf","email@gmail.com","232sadfd","23232","2026-12-12","2026-12-15","3","4","testingtesting","201","Deluxe","2500","7500","CONFIRMED"
